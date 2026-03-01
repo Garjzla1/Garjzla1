@@ -20,5 +20,5 @@ Hi, I’m Benjamin King.
 2. ~4 months in C/C++
 3. ~4 months in Java
 4. ~3 months in javascript
-5. Dabbled in: C#, VBA, VBA.NET
+5. Dabbled in: x86_64 ASM, C#, VBA, VBA.NET
 7. HTML and CSS
