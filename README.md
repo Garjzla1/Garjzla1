@@ -13,11 +13,12 @@ Hi, I’m Benjamin King.
 ## School Experiance
 1. Graduated from BJA.
 2. Currently enrolled in BJU as a Computer Science major.
-3. I have had Calculus I, II, and III, Differential Equations, and Discrete Math, and I plan on taking Linear Algebra in the future.
+3. Math: I have had Calculus I, II, and III, Differential Equations, Numerical Analysis, and Discrete Math, and I plan on taking Linear Algebra in the future.
+4. Comp Sci: I have had Fundamentals of OOP, Computer Systems, Data Structures and Algorithms, and Unix Programming.
 ## Language Experiance
 1. ~5 years in Python
-2. ~4 months in Java
-3. ~3 months in javascript
-4. Dabbled in C, C++, C#
-5. VBA, VBA.NET
-6. HTML and CSS
+2. ~4 months in C/C++
+3. ~4 months in Java
+4. ~3 months in javascript
+5. Dabbled in: C#, VBA, VBA.NET
+7. HTML and CSS
