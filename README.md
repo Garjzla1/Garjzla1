@@ -19,6 +19,5 @@ Hi, I’m Benjamin King.
 1. ~5 years in Python
 2. ~4 months in C/C++
 3. ~4 months in Java
-4. ~3 months in javascript
-5. Dabbled in: x86_64 ASM, C#, VBA, VBA.NET
+5. Dabbled in: x86_64 ASM, JavaScript, C#, VBA, VBA.NET
 7. HTML and CSS
